@@ -22,3 +22,4 @@ Fun Websites:
 - Reference for Python Language: [Python3 Docs](https://docs.python.org/3)
 - Fast, Privacy-focused DNS Server: [1.1.1.1](https://1.1.1.1)
 - curl Reference: https://everything.curl.dev
+- Learn Git: [GitHub Docs](https://docs.github.com/en/get-started/using-git)
