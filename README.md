@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shaunak
 
 - 🔭 I’m currently working on my new website design.
-- 🌱 I’m currently in First Year of college studying Computer Engineering.
+- 🌱 I’m currently in Second Year of college studying Computer Engineering.
 - 🤔 I’m learning about Data Structures and Algorithms.
 - 💬 Ask me about Frontend Development, Backend Development, Python Language, C/C++ Language.
 - 📫 How to reach me:
