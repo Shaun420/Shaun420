@@ -15,11 +15,14 @@
 Fun Websites:
 - Best place for getting started: [roadmap.sh](https://roadmap.sh/get-started)
 - Another place for getting started: [FreeCodeCamp](https://www.freecodecamp.org/learn)
-- Data Structure and Algorithm Problems: [Leetcode](https://leetcode.com)
+- Learning Data Structure and Algorithms: [GeeksforGeeks](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial)
+- DSA Problems: [Leetcode](https://leetcode.com), [HackerRank](https://www.hackerrank.com/domains/algorithms)
 - Web Development Reference: [MDN](https://developer.mozilla.org/en-US/docs/Web)
 - Learn about how the internet works: [Cloudflare Learning Resources](https://www.cloudflare.com/learning)
 - Free resources for developers: https://free-for.dev
 - Reference for Python Language: [Python3 Docs](https://docs.python.org/3)
+- Reference for C++ Language: [cppreference](https://en.cppreference.com/w/cpp)
 - Fast, Privacy-focused DNS Server: [1.1.1.1](https://1.1.1.1)
 - curl Reference: https://everything.curl.dev
-- Learn Git: [GitHub Docs](https://docs.github.com/en/get-started/using-git)
+- Learn Git: [GitHub Training](https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class)
+- GitHub Docs: [GitHub Docs](https://docs.github.com/en/get-started/using-git)
