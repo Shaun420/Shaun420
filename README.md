@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Shaunak
 
+![Shaun420's Stats](https://github-readme-stats.vercel.app/api?username=Shaun420&theme=material-palenight&show_icons=true&hide_border=false&count_private=false)
+![Shaun420's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaun420&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
+
 - 🔭 I’m currently working on my new website design.
 - 🌱 I’m currently in Second Year of college studying Computer Engineering.
 - 🤔 I’m learning about Data Structures and Algorithms.
