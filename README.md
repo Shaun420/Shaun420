@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Shaunak
-
+---
 ![Shaun420's Stats](https://github-readme-stats.vercel.app/api?username=Shaun420&theme=material-palenight&show_icons=true&hide_border=false&count_private=false)
 ![Shaun420's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaun420&theme=material-palenight&show_icons=true&hide_border=false&layout=compact)
 
@@ -14,6 +14,12 @@
   - [Twitter](https://twitter.com/Shaun4201)
   - [Reddit](https://www.reddit.com/user/dB_420)
 - 😄 Pronouns: Any
+---
+## 🌐 Connect with Me  
+[![Email](email.png)](mailto:admin@shaun420.eu.org)
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/shaunakhawaldar)
+[![Instagram](instagram-2.png)](https://www.instagram.com/shaunakhawaldar)
+[![Reddit](reddit.png)](https://www.reddit.com/user/dB_420)
 
 Fun Websites:
 - Best place for getting started: [roadmap.sh](https://roadmap.sh/get-started)
