@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on my new website design.
 - 🌱 I’m currently in Second Year of college studying Computer Engineering.
-- 🤔 I’m learning about Data Structures and Algorithms.
-- 💬 Ask me about Frontend Development, Backend Development, Python Language, C/C++ Language.
+- 🤔 I’m learning about Cloud Cybersecurity.
+- 💬 Ask me about Linux commands, Git, React, JavaScript, Flask, Django, Python, C++, Java.
 - 📫 How to reach me:
-  - [Email](mailto:admin@shaun420.eu.org)
+  - [Email](mailto:hawaldarshaunak@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/shaunakhawaldar)
   - [Instagram](https://www.instagram.com/shaunakhawaldar)
   - [Twitter](https://twitter.com/Shaun4201)
@@ -16,7 +16,7 @@
 - 😄 Pronouns: Any
 ---
 ## 🌐 Connect with Me  
-[![Email](email.png)](mailto:admin@shaun420.eu.org)
+[![Email](email.png)](mailto:hawaldarshaunak@gmail.com)
 [![LinkedIn](linkedin.png)](https://www.linkedin.com/in/shaunakhawaldar)
 [![Instagram](instagram-2.png)](https://www.instagram.com/shaunakhawaldar)
 [![Reddit](reddit.png)](https://www.reddit.com/user/dB_420)
